@@ -1,6 +1,6 @@
 # VIM_Settings
------------------------------------
 This vim Settings use for C, C++, Python<br>
+-----------------------------------
 ## OS<br>
 Ubuntu 18.04<br>
 ## vim<br>
