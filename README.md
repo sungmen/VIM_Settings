@@ -16,6 +16,8 @@ VIM_SETTINGS repository .vimrc download command
 wget https://raw.githubusercontent.com/sungmen/VIM_Settings/master/.vimrc
 ```
 <br>
+<br>
+
 This vim Settings use for C, C++, Python<br>
 -----------------------------------
 
